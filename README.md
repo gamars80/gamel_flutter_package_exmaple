@@ -1,6 +1,6 @@
 # shake_count_app
 
-A new Flutter project.
+pub.dev 를 통한 패키지 선언 민 pug.get을 통한 외부라이브러리 의존성 주입 및 스플래쉬 스크린 실습해보기 및 앱아이콘 적용 실습해보기
 
 ## Getting Started
 
